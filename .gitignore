@@ -1,0 +1,40 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entorno y dependencias
+node_modules/
+.env
+.env.local
+*.env*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Archivos de compilación
+dist/
+build/
+*.tmp
+
+# Dependencias y paquetes
+package-lock.json
+yarn.lock
+
+# Archivos de prueba
+coverage/
+*.junit
+*.xml
+
+# Misceláneos
+*.swp
+*.swo
+
+# Archivos http
+*.http
