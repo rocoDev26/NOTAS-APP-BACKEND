@@ -11,7 +11,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://sensational-lokum-0fbba5.netlify.app/",
+      "https://sensational-lokum-0fbba5.netlify.app",
     ],
   })
 );
